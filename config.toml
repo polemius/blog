@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blog"
+theme = "minimal"
+
+
+[params]
+    twitter = 'polemius'
+    github = 'polemius'
