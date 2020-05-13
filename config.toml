@@ -1,8 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://polemius.dev/"
 languageCode = "en-us"
-title = "Blog"
+title = "Polemius blog"
 theme = "minimal"
-
 
 [params]
     twitter = 'polemius'
