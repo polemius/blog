@@ -1,4 +1,4 @@
-baseURL = "http://polemius.dev/"
+baseURL = "https://polemius.dev/"
 languageCode = "en-us"
 title = "Polemius blog"
 theme = "minimal"
